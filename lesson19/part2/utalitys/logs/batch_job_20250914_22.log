@@ -1,0 +1,4 @@
+2025-09-14 22:54:55 [DEBUG] [MainThread] [batch_job.example4_disable_console:560] - This message is only written to file
+2025-09-14 22:54:55 [DEBUG] [MainThread] [batch_job.example4_disable_console:560] - This message is only written to file
+2025-09-14 22:56:12 [DEBUG] [MainThread] [batch_job.example4_disable_console:560] - This message is only written to file
+2025-09-14 22:56:12 [DEBUG] [MainThread] [batch_job.example4_disable_console:560] - This message is only written to file

@@ -1,0 +1,5 @@
+2025-09-14 22:49:11 [INFO] [MainThread] [myapp.example2_custom_directory:539] - Logging to custom_logs directory
+2025-09-14 22:49:18 [INFO] [MainThread] [myapp.example2_custom_directory:539] - Logging to custom_logs directory
+2025-09-14 22:49:51 [INFO] [MainThread] [myapp.example2_custom_directory:539] - Logging to custom_logs directory
+2025-09-14 22:51:16 [INFO] [MainThread] [myapp.example2_custom_directory:539] - Logging to custom_logs directory
+2025-09-14 22:52:50 [INFO] [MainThread] [myapp.example2_custom_directory:539] - Logging to custom_logs directory

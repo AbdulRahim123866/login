@@ -1,0 +1,1 @@
+APP_NAME="Inventory Management System"

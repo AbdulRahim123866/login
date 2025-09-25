@@ -1,0 +1,11 @@
+{
+  "log_dir": "custom_logs",
+  "level": "INFO",
+  "buffer_size": 100,
+  "max_mb": 5,
+  "max_error_buffer": 10,
+  "retention_days": 7,
+  "tags": ["env:dev", "version:1.0"],
+  "json_format": true,
+  "enable_console": true
+}
