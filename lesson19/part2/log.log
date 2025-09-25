@@ -1,7 +1,0 @@
-2025-09-13 22:05:19,807 - INFO - 30 - main- main.py - hello world
-2025-09-13 22:05:22,068 - INFO - 36 - main- main.py - you enterd 3
-2025-09-13 22:05:22,068 - ERROR - 37 - main- main.py - invalid input
-2025-09-13 22:05:22,068 - WARNING - 38 - main- main.py - invalid input
-2025-09-13 22:05:22,069 - INFO - 39 - main- main.py - invalid input
-2025-09-13 22:05:22,069 - CRITICAL - 40 - main- main.py - invalid input
-2025-09-13 22:05:22,069 - DEBUG - 41 - main- main.py - invalid input
